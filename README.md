@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**roberto16477/roberto16477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, meu nome é Roberto Carlos! 👋
 
-Here are some ideas to get you started:
+Bem-vindo(a) ao meu perfil no GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre Mim
+
+- 🎓 Graduando em **Sistemas de Informação**.
+- 👨‍💼 Atuei por 2 anos como **Programador Delphi**, onde desenvolvi e mantive sistemas desktop.
+- 🐍 Atualmente, estou focado em **Python**, com um interesse especial em **Análise de Dados**.
+- 🚀 Buscando oportunidades para aplicar meus conhecimentos e aprender novas tecnologias.
+
+## 🔧 Tecnologias e Ferramentas
+
+- **Linguagens:** Python, SQL, (e Delphi como experiência anterior)
+- **Bibliotecas Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **Ferramentas:** GitHub, VS Code, Jupyter Notebook
+
+## 🌱 O que estou aprendendo
+
+Atualmente, estou aprimorando minhas habilidades em:
+
+- Análise e visualização de dados.
+- Machine Learning (conceitos iniciais).
+- Desenvolvimento de projetos práticos com Python.
+
+## 📫 Como me encontrar
+
+- **Email:** rcsjr.jr@hotmail.com

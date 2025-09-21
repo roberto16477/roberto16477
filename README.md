@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil no GitHub!
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 Graduando em **Sistemas de Informação**.
+- 🎓 Graduando em **Sistemas de Informação** no **Instituto Federal Catarinense - Campus Camboriú**.
 - 👨‍💼 Atuei por 2 anos como **Programador Delphi**, onde desenvolvi e mantive sistemas desktop.
 - 🐍 Atualmente, estou focado em **Python**, com um interesse especial em **Análise de Dados**.
 - 🚀 Buscando oportunidades para aplicar meus conhecimentos e aprender novas tecnologias.

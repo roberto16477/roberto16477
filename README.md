@@ -28,3 +28,7 @@ Atualmente, estou aprimorando minhas habilidades em:
 ## 📫 Como me encontrar
 
 - **Email:** rcsjr.jr@hotmail.com
+
+## 🐧 Fato Curioso
+
+- Na foto de perfil, está o Post Malone segurando um pinguim🐧.
